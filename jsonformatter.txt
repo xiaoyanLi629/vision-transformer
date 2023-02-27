@@ -1,0 +1,14 @@
+[
+  {
+    "prompt": "question 1",
+    "completion": " answer 1"
+  },
+  {
+    "prompt": "question 2",
+    "completion": " answer 2"
+  },
+  {
+    "prompt": "question 3",
+    "completion": " answer 3"
+  }
+]
